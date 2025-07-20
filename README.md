@@ -1,0 +1,2 @@
+# codsoft
+a simple website
